@@ -1,0 +1,15 @@
+{
+    "GraphicsScaling": {
+        "AutoOptimization": {
+            "BaseResolution": 1080,
+            "LowPowerResolution": 720,
+            "ShadowQualityLevels": 3
+        }
+    },
+    "ShaderQuality": 4,
+    "PhysicsThreads": 2,
+    "BatteryThresholds": {
+        "Critical": 15,
+        "PerformanceMode": 30
+    }
+}

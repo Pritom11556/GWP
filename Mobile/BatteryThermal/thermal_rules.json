@@ -1,0 +1,10 @@
+{
+    "ThrottlingThresholds": {
+        "ShaderQuality": [45, 30],
+        "PhysicsThreads": [40, 25]
+    },
+    "RecoveryRates": {
+        "Cooling": 1.2,
+        "Charging": 0.8
+    }
+}

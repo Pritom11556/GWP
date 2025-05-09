@@ -1,0 +1,9 @@
+{
+    "ARFallbacks": {
+        "LowLight": "NeuralEdgeRendering",
+        "HighMotion": "PredictionMeshSimplification"
+    },
+    "BiometricAdaptation": {
+        "HeartRateThresholds": [90, 120]
+    }
+}

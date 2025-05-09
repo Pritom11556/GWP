@@ -1,0 +1,24 @@
+{
+    "TextureStreaming": {
+        "MaxResolution": [4096, 2048],
+        "VRAMThresholds": [2.0, 1.5]
+    },
+    "LODThresholds": {
+        "HighPoly": [0.8, 0.6],
+        "VolumetricFX": [0.7, 0.4],
+        "AIComplexity": [0.9, 0.5]
+    },
+    "BatteryFallbacks": {
+        "30%": "Medium",
+        "15%": "Low"
+    },
+    "DynamicScaling": {
+        "LowBatteryMode": "DisableSSR",
+        "HighTemperature": "ReduceParticleCount"
+    },
+    "CloudFallbacks": {
+        "PoorConnection": "LocalProceduralTextures"
+    },
+    "BatteryUnder40%": "DisableVolumetricFog",
+    "ThermalOver60C": "ReduceShadowCascades"
+}
